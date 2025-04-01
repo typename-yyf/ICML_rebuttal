@@ -1,15 +1,3 @@
-# Proof 
-## Proof R.1
-![](./imgs/lower_bound_1.png)
-![](./imgs/lower_bound_2.png)
-![](./imgs/lower_bound_3.png)
-![](./imgs/lower_bound_4.png)
-![](./imgs/lower_bound_5.png)
-
-## Proof R.2
-![](./imgs/negativity_1.png)
-![](./imgs/negativity_2.png)
-
 # Figures
 ## Figure R.1
 ![](./imgs/metrics.PNG)
@@ -55,3 +43,16 @@ Table R.3: Supplementary experiments to Table 7 of the original paper, comparing
 |PSS @ 70k steps(lr=4e-4)|2.84|52.3%|86.1%|84.6%|81.9%|
 
 Table R.4:
+
+# Proof 
+## Proof R.1
+![](./imgs/lower_bound_1.png)
+![](./imgs/lower_bound_2.png)
+![](./imgs/lower_bound_3.png)
+![](./imgs/lower_bound_4.png)
+![](./imgs/lower_bound_5.png)
+
+## Proof R.2
+![](./imgs/negativity_1.png)
+![](./imgs/negativity_2.png)
+
