@@ -1,11 +1,27 @@
+# Proof 
+## Proof R.1
+![](./imgs/lower_bound_1.png)
+![](./imgs/lower_bound_2.png)
+![](./imgs/lower_bound_3.png)
+![](./imgs/lower_bound_4.png)
+![](./imgs/lower_bound_5.png)
 
+## Proof R.2
+![](./imgs/negativity_1.png)
+![](./imgs/negativity_2.png)
+
+# Figures
+## Figure R.1
+![](./imgs/metrics.PNG)
+
+# Tables
+## Table R.1
+Frequency of PSS activation across different settings.
 | Model         | bert-base     | bert-base     | bert-large    | bert-large    | gpt-2-medium  | gpt-2-medium  | gpt-2-large   | gpt-2-large   |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | Steps         | @50k step     | @100k step    | @50k step     | @100k step    | @100k step    | @200k step    | @100k step    | @200k step    |
 | Small LR      | 0.02%             | 0.03%   | 0.03%          | 0.03%         | 0.05%           | 0.03%          | 0.06%           | 0.05%       |
 | Large LR      | 0.09%            | 0.06%            | 0.16%  | %0.11      | %0.23   | %0.15        | %0.19 | %0.15     |
-
-Table R.1: Frequency of PSS activation across different settings.
 
 
 |Model|BERT-large|BERT-large|GPT-2-Large|GPT-2-large|GPT-2-XL|GPT-2-XL|GPT-2-XL|
