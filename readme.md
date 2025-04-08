@@ -1,10 +1,12 @@
 # Figures
 ## Figure 1
 Evolution of $SR(W)$, $SR(Z)$, gradient norm, and training loss in the feedforward module (FFN) across 12 layers on GPT-Medium. The top panel shows unstable training (LR=1e-3), with a loss spike and sharp SR drop near step 8000, linking singularities to instability; the bottom panel shows stable training (LR=5e-4). Both cases exhibit rising SRs and alignment trends.
+
 ![](./imgs/metrics.PNG)
 
 ## Figure 2
 Singular value distribution of the representation matrix in the embedding layer of BERT-base.
+
 ![](./imgs/dominant_feature.png)
 
 # Tables
