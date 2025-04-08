@@ -58,3 +58,6 @@ Larger LRs with PSS at 70k steps vs baseline LR=1e-4 at 100k, showing PSS reduce
 ![](./imgs/negativity_1.png)
 ![](./imgs/negativity_2.png)
 
+## Proof 3
+![](./imgs/proof_3_1.png)
+![](./imgs/proof_3_2.png)
