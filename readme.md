@@ -4,6 +4,7 @@ Evolution of $SR(W)$, $SR(Z)$, gradient norm, and training loss in the feedforwa
 ![](./imgs/metrics.PNG)
 
 ## Figure 2
+Singular value distribution of the representation matrix in the embedding layer of BERT-base.
 ![](./imgs/dominant_feature.png)
 
 # Tables
